@@ -23,18 +23,18 @@ Features: 6 categorical and 13 numerical variables
 All data processing, exploratory data analysis (EDA), and model training details are documented in our Jupyter notebook.
 
 📘 Access the notebook here:
-Credit Risk Analysis Notebook on GitHub
+[Credit Risk Analysis Notebook on GitHub](https://github.com/PawanPC005v/Credit-Risk-Prediction-Training-and-EDA/blob/main/Credit%20Risk%20Analysis%20Pawanpc.ipynb)
 
 🧪 Model Performance
 
 Model	Accuracy
-Logistic Regression	94.64%
-Random Forest	96.50%
-Decision Tree	96.63%
-LightGBM	96.68%
-K-Nearest Neighbors	96.81%
-CatBoost	96.83%
-XGBoost	97.34%
+Logistic Regression	-94.64%
+Random Forest-96.50%
+Decision Tree	-96.63%
+LightGBM-96.68%
+K-Nearest Neighbors -	96.81%
+CatBoost- 96.83%
+XGBoost-97.34%
 
 🚀 Future Directions
 
