@@ -35,7 +35,9 @@ LightGBM	96.68%
 K-Nearest Neighbors	96.81%
 CatBoost	96.83%
 XGBoost	97.34%
+
 🚀 Future Directions
+
 Future improvements could involve:
 
 Exploring other models like Support Vector Machines (SVMs), Neural Networks, and Deep Learning architectures to evaluate performance across different conditions.
